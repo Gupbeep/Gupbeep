@@ -6,6 +6,12 @@
 ╚██████╔╝╚██████╔╝██║░░░░░██████╦╝███████╗███████╗██║░░░░░
 ░╚═════╝░░╚═════╝░╚═╝░░░░░╚═════╝░╚══════╝╚══════╝╚═╝░░░░░
 <!--
+📚 About Me
+My name is Alexander, I'm 16 years old.
+
+🛠️ Skills
+Unfortunately, there is nothing here yet
+I'm currently studying to become a Frontend Developer at VVSU ITHUB.
 **Gupbeep/Gupbeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
