@@ -16,8 +16,8 @@ I'm currently studying to become a Frontend Developer at VVSU ITHUB.
 ---
 
 ## 🛠️ Skills
-C# - begginer level
-Js - begginer level
+- C# - begginer level
+- Js - begginer level
 
 ---
 
